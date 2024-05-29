@@ -13,7 +13,7 @@
 
 Trata-se de uma base de dados hospitalar contendo informações sobre as classes dos procedimentos, tipo de convênio, nome dos médicos,  informações de pacientes (admissão, alta, gênero, data de nascimento..), além de outras informações como financeiras, acomodações e afins.
 
-O objetivo desta exploração de dados é responder as perguntas de negócios abaixo para posteriormente criar os painéis de visualizações.
+O propósito desta análise de dados é responder às questões empresariais apresentadas pela administração do hospital. Estes insights serão fundamentais para orientar decisões de natureza financeira e logística. Além disso, servirão como base para a futura elaboração de um painel de indicadores visuais.
 
 1. Quais as classes de procedimentos que mais realizamos na unidade?
 2. Quais convênios nos geram maior faturamento?
